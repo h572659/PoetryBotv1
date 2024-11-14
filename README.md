@@ -3,3 +3,6 @@ It is seeming increasingly unlikely that I will be able to deploy this onto a we
 
 Video proving that it works:
 https://www.youtube.com/watch?v=KfIoIBI5XBA
+
+UPDATE: I DID IT! https://huggingface.co/spaces/JonRon/PoetryV1
+The application now runs on huggingface for public use. The project did have to go through some modifications to run however, since the app does not access the API key through .env but is supplied from the site in the form of a secret.
